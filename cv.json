@@ -1,66 +1,56 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Brandon Diaz Vazquez",
+    "label": "Full Stack Developer",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "brandonvqz23@gmail.com",
+    "phone": "+52 6183676111",
+    "url": ".",
+    "summary": "Hola extraño, +3 años de desarrollador web, +1 de desarrollador movil. He trabajado en distintos entornos desde desarrollar aplicaciones moviles a hacer backend y frontend de paginas web.",
     "location": {
       "address": "",
       "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "city": "Victoria de Durango",
+      "countryCode": "MX",
+      "region": "Mexico"
     },
     "profiles": [
       {
         "network": "LinkedIn",
         "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "url": "https://www.linkedin.com/in/diazbrandoon/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Branditolove",
+        "url": "https://twitter.com/Branditodiaz"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Branditolove",
+        "url": "https://github.com/Branditolove"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "ERP",
+      "position": "Desarrollador Movil",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7181019318699143168/",
+      "startDate": "2024-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Aplicacion movil, que permite la creacion y asignacion de contratos, registro de visitas a clientes y prospectos de clientes.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Tribunal Superior del Estado de Durango",
+      "position": "Desarrollador Full Stack",
+      "url": "",
+      "startDate": "2022-06-01",
+      "endDate": "2023-09-01",
+      "summary": "Realice la creacion de un sistema que te asigna turnos por medio de WhatsApp. Entre por medio de mis practicas profesionales, me contrataron para darle mantenimiento a sus sistemas integrados.",
       "highlights": [
         "Started the company"
       ]
@@ -78,12 +68,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Instituto Tecnologico de Durango",
+    "url": "https://www.itdurango.edu.mx/",
+    "area": "Ingeniero en Sistemas Computacionales",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2018-01-01",
+    "endDate": "2022-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -210,66 +200,27 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "ERP",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Sistema de Ventas.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "React native",
+        "Laravel",
+        "Postman",
+        "Terminado."
       ],
-      "url": "https://mars.codes"
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7181019318699143168/"
     },
     {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "name": "WhatsApp Bot",
+      "isActive": false,
+      "description": "Asignador de turnos para las oficinas del Tribunal Superior de Durango",
       "highlights": [
-        "+1 millón de visitas",
+        "+100,000 de visitas",
         "Multidioma",
         "JavaScript & TypeScript"
       ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "."
     }
   ]
 }
